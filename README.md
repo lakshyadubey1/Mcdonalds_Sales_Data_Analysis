@@ -16,7 +16,8 @@ The objective of this project is to demonstrate practical data analysis skills i
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard/mcdonalds_dashboard_screenshot.png)
+![Dashboard Screenshot](<img width="2153" height="1375" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/102f138d-53e0-4500-8279-3aeea44cf7bb" />
+)
 
 ---
 
