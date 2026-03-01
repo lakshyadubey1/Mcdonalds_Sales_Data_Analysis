@@ -16,7 +16,7 @@ The objective of this project is to demonstrate practical data analysis skills i
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](<img width="2153" height="1375" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/102f138d-53e0-4500-8279-3aeea44cf7bb" />
+![Dashboard Screenshot](<img width="2074" height="1566" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/ef7f839c-d0c8-483c-b6aa-9199a07b145a" />
 )
 
 ---
@@ -61,6 +61,7 @@ Total Records: 12,000+ rows
 
 - Revenue by Category
 - Revenue by Category across Months
+- Total Orders each Day
 - Top 5 Menu Items by Sales
 - Order Volume by Hour (Peak Time Analysis)
 - Sales Trends by Weekday vs Weekend
